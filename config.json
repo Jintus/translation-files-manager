@@ -1,0 +1,11 @@
+{
+    "Paths": {
+        "TraductionFilesFolder": "./i18n/",
+        "ExcelFileFolder": "./output/"
+    },
+    "ExcelFilename": "test.xlsx",
+    "WorksheetName": "Translations",
+    "KeyHeader": "Keys",
+    "SupportedLang": ["en", "fr", "es", "pt", "it"],
+    "KeySeparator": "."
+}

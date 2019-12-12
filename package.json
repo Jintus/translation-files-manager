@@ -1,0 +1,16 @@
+{
+  "name": "translation-files-manager",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "exceljs": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "generate-excel": "node excel-generator.js",
+    "update-translations": "node index.js"
+  },
+  "author": "Justin GALLY",
+  "license": "ISC"
+}
